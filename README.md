@@ -18,6 +18,15 @@ The dashboard was developed using Power BI and incorporates various visualizatio
 - **Microsoft Excel:** For data preprocessing.
 - **DAX (Data Analysis Expressions):** For creating custom measures and calculations.
 
+## Dashboard Previews 🖼️ <br>
+
+
+![Dashboard Analysis](https://github.com/Jiyachaudhari-05/SuperStore_Dashboard/blob/main/Screenshot%202025-01-08%20200834.png) <br> <br>
+- *Mobile View* <br> <br>
+![Dashboard Analysis](https://github.com/Jiyachaudhari-05/SuperStore_Dashboard/blob/main/Screenshot%202025-01-12%20204023.png) <br> <br>
+![Dashboard Analysis](https://github.com/Jiyachaudhari-05/SuperStore_Dashboard/blob/main/Screenshot%202025-01-12%20204153.png)<br>
+
+
  # Insights  📈 
 - **Regional Performance:** The West region contributes the highest to sales but requires a deeper look into profitability compared to other regions.
 - **Segment Contribution:** The Consumer segment drives the majority of sales, followed by Corporate. The Home Office segment has room for growth.
